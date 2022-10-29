@@ -21,3 +21,4 @@ My dwm rice and configs
 - __sxhkd__    - Key binder
 - __lf__       - Terminal file manager
 - __p10k__     - Terminal promt
+- __st__       - Scratchpad terminal
