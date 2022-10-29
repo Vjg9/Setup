@@ -22,3 +22,4 @@ My dwm rice and configs
 - __lf__       - Terminal file manager
 - __p10k__     - Terminal promt
 - __st__       - Scratchpad terminal
+- __font__     - Hack Nerd Font
