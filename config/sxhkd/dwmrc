@@ -1,0 +1,13 @@
+# Dmenu for terminal programs
+super + T
+		~/Programing/Bash/dmenu_launcterm.sh 
+
+# Change volume
+super + v
+		pactl set-sink-volume 0 +5%
+super + V
+		pactl set-sink-volume 0 -5%
+
+# Screenshot
+super + s 
+		ffmpeg -f x11grab -i :0.0 ~/Pics/Screenshot.png & notify-send " Screenshot" "screenshot taken"
